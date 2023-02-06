@@ -1,0 +1,2 @@
+II/F:
+	A páratlanok száma: 4
